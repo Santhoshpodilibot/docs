@@ -214,3 +214,4 @@ You can also create a new repository where you can put all your projects and sha
 Each repository in {% data variables.product.product_name %} is owned by a person or an organization. You can interact with the people, repositories, and organizations by connecting and following them on {% data variables.product.product_name %}. For more information see "[Be social](/articles/be-social)."
 
 {% data reusables.support.connect-in-the-forum-bootcamp %}
+https://youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ
